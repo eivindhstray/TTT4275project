@@ -1,5 +1,5 @@
 # ClassificationTTT4275
-Project in classification TTT4275 with Eivind Heldal Stray
+Project in classification TTT4275 with Magnus Dyre Moe
 
 
 The project is divided into two tasks. Task one is to classify iris flowers from Fisher's Iris data set into Iirs setosa, 
